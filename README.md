@@ -15,10 +15,6 @@
 - 💬 Ask me about C# & React.js
 - ⚡ Fun fact I love pizza!
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeKaiKev&show_icons=true&theme=radical" alt="CodeKaiKev's GitHub stats"/>
-</p>
 
 <!-- Top Languages -->
 <p align="center">
